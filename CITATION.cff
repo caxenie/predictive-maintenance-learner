@@ -1,8 +1,10 @@
-@misc{axenie2019predmaint,
-  author = {Cristian Axenie},
-  title = {Learning Predictive Maintenance for Elevators},
-  year = {2019},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/caxenie/predictive-maintenance-learner/}}
-  }
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Axenie
+    given-names: Cristian
+    orcid: https://orcid.org/0000-0001-6184-0546
+title: "Learning Predictive Maintenance for Elevators - Code and Datasets"
+version: 1.0.0
+date-released: 2019-08-11
+
