@@ -1,0 +1,8 @@
+@misc{axenie2019predmaint,
+  author = {Cristian Axenie},
+  title = {Learning Predictive Maintenance for Elevators},
+  year = {2019},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/caxenie/predictive-maintenance-learner/}}
+  }
